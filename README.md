@@ -3,6 +3,24 @@
 ## 项目简介
 专利猎人是一款基于React和TypeScript开发的全球专利侵权风险智能预警系统，提供专利检索、分析、比对和风险评估等功能。
 
+## 功能展示
+
+#### 1. 专利风险监控预警功能 
+
+![img](https://ai.feishu.cn/space/api/box/stream/download/asynccode/?code=MWU4Yzk1MDY2OGE2YzgzMzM1Y2U2MmM2ZTJkMmNlMjZfbzBzdDdidUlIaFVOQ0R4NmFiWXdqRDluTkZUYlBRMXRfVG9rZW46RWdJeWJnbUFnb24zZzV4c2VZQ2NvcG1QbkFnXzE3NjQ1NzM4MDA6MTc2NDU3NzQwMF9WNA)
+
+#### 2. 专利检索功能
+
+![img](https://ai.feishu.cn/space/api/box/stream/download/asynccode/?code=YjdmYjA5YzNiNDk4ZTFlMTljMjBiNzExZjJhMmEyMzJfSHBSSmVNMmdUek1DS0NzaG5aYmI4ZkgydE1URURVMTZfVG9rZW46UGVHNmJRbW1Zb3FTdmZ4alFtc2Nxa2lVbkZOXzE3NjQ1NzM4MDA6MTc2NDU3NzQwMF9WNA)
+
+#### 3. 专利相似度对比功能
+
+![img](https://ai.feishu.cn/space/api/box/stream/download/asynccode/?code=YWJlYTY1NDUzNDk5ZTY2MWVmYmQ3NzJlOTdhOWEyOTVfNG5xRUwwTWNMR05EbnhPd0paRXkzWjdmS3E3S2d4MHlfVG9rZW46Szh3VmJOa01Bb0Vrdzl4MnJpcGNaYjZUbmxjXzE3NjQ1NzM4MDA6MTc2NDU3NzQwMF9WNA)
+
+#### 4. 个人中心功能
+
+![img](https://ai.feishu.cn/space/api/box/stream/download/asynccode/?code=MzA4NjAxNDEyYjM3ZDM1MWViYjM2OGI5NmNmOTYyZTBfMU1YR2piNkhCdFJHQ1E0Zk9XQlNYTlR0VUVWaktZRTRfVG9rZW46Q0tMVGJaNFlQb2FxZjh4MUpZZmMyNmZnbnBjXzE3NjQ1NzM4NTM6MTc2NDU3NzQ1M19WNA)
+
 ## 技术栈
 - React 18+
 - TypeScript
