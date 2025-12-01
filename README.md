@@ -53,7 +53,7 @@ pnpm dev
 首先，将项目代码克隆到您的Linux服务器上：
 
 ```bash
-git clone [您的项目仓库地址]
+git clone https://github.com/axp007/Patent-Hunter.git
 cd [项目目录]
 ```
 
